@@ -20,6 +20,10 @@ The search step will retain sequences with significant hits to the profile of in
 `effectR` also combines the redundant sequences found in both REGEX and HMM searches into a single dataset that can be easily exported. 
 In addition, `effectR` reads and returns the HMM profile to the user and allows for the creation of a [MOTIF logo-like plot](https://en.wikipedia.org/wiki/Sequence_logo) using `ggplot2`.
 
+## Citation 
+
+Tabima, J.  F., and Grünwald, N. J. 2019. EffectR: An expandable R package to predict candidate RxLR and CRN effectors in oomycetes using motif searches. MPMI, in press. https://doi.org/10.1094/MPMI-10-18-0279-TA.
+
 ## Requirements 
 
 - R packages:
